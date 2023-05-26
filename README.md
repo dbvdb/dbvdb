@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bonjour ! 👋
+
+- Software Engineer by nature.
+- Linux Evangelist.
+- Computer languages: C/C++, Python and rust
+- Human languages: English, French and Persian.
+- Call me Danny if you're a friend!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbvdb&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dbvdb/dbvdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

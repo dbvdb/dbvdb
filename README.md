@@ -3,7 +3,7 @@
 - Software Engineer by nature.
 - Linux Evangelist.
 - Computer languages: C/C++, Python and rust
-- Human languages: English, French and Persian.
+- Human languages: English, French, Perisan and German :))
 - Call me Danny if you're a friend!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbvdb&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)

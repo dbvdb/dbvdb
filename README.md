@@ -2,7 +2,7 @@
 
 - Software Engineer by nature.
 - Linux Evangelist.
-- Computer languages: C/C++, Python and rust
+- Computer languages: C/C++, Python and go!
 - Call me Danny if you're a friend!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbvdb&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
